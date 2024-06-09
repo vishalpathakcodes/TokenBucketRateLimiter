@@ -14,8 +14,8 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/vishalpathakcodes/TokenBucketRateLimiter.git
+    cd TokenBucket
     ```
 
 2. **Install the dependencies:**
